@@ -1,6 +1,5 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=wavy&color=gradient&height=280&section=header&text=Linda%20Hind%20SELAB&fontSize=80&animation=fadeIn&fontAlignY=38&desc=AI%20Engineer%20%7C%20Ex-Web%20Developer&descAlignY=55&descAlign=62" />
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&pause=1000&color=35CDA6&center=true&vCenter=true&width=500&lines=Building+AI+Agents+with+LangChain;Fullstack+Web+Development;Computer+Vision+%26+Deep+Learning;Open+to+Internship+Opportunities+(Jan+2026)" alt="Typing SVG" />
