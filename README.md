@@ -13,7 +13,7 @@
   <br/>
   I bridge the gap between <b>Web Engineering</b> and <b>Artificial Intelligence</b>.
   <br/>
-  Currently pursuing a <b>Master's in AI at Paris 8</b>, I specialize in building intelligent systems using LLMs, RAG, and Computer Vision.
+  Currently pursuing a <b>Master's in AI at Paris 8</b>
   <br/>
   <br/>
   🔭 <b>Seeking a Final Year Internship in AI/Data starting January 2026.</b>
