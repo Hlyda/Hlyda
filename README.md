@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=wavy&color=gradient&height=280&section=header&text=Linda%20Hind%20SELAB&fontSize=80&animation=fadeIn&fontAlignY=38&desc=AI%20Engineer%20%7C%20Ex-Web%20Developer&descAlignY=55&descAlign=62" />
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&pause=1000&color=35CDA6&center=true&vCenter=true&width=500&lines=Building+AI+Agents+with+LangChain;Fullstack+Web+Development+(React%2FPHP);Computer+Vision+%26+Deep+Learning;Open+to+Internship+Opportunities+(Jan+2026)" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&pause=1000&color=35CDA6&center=true&vCenter=true&width=500&lines=Building+AI+Agents+with+LangChain;Fullstack+Web+Development;Computer+Vision+%26+Deep+Learning;Open+to+Internship+Opportunities+(Jan+2026)" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -35,19 +35,46 @@
 
 <br/>
 
-<h3>🧠 AI & Data Science Stack</h3>
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,sklearn,opencv,pandas,numpy&theme=dark" />
-</a>
-<br/>
-<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat&logo=langchain&logoColor=white" />
-<img src="https://img.shields.io/badge/RAG-FFD000?style=flat&logo=google&logoColor=black" />
-<img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=flat&logo=huggingface&logoColor=black" />
+<h3>🧠 AI & Data Science</h3>
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
+  <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white" />
+  <img src="https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
+  <br/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=chainlink&logoColor=white" />
+</p>
 
-<h3>💻 Web & DevOps Background</h3>
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=react,js,html,css,php,mysql,jenkins,linux,git,postman&theme=dark" />
-</a>
+<h3>💻 Web Development</h3>
+<p align="center">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <br/>
+  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+</p>
+
+<h3>🛍️ CMS & Platforms (Freelance)</h3>
+<p align="center">
+  <img src="https://img.shields.io/badge/WordPress-117AC9?style=for-the-badge&logo=WordPress&logoColor=white" />
+  <img src="https://img.shields.io/badge/Shopify-95BF47?style=for-the-badge&logo=shopify&logoColor=white" />
+  <img src="https://img.shields.io/badge/Wix-0C6EFC?style=for-the-badge&logo=wix&logoColor=white" />
+  <img src="https://img.shields.io/badge/Webflow-4353FF?style=for-the-badge&logo=webflow&logoColor=white" />
+</p>
+
+<h3>🛠️ Tools & DevOps</h3>
+<p align="center">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
+</p>
 
 <br/><br/>
 
