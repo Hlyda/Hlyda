@@ -72,10 +72,5 @@
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
 </p>
 
-<br/><br/>
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hlyda&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="170px" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hlyda&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" height="170px" />
-</div>
-
+<br/>
 </div>
