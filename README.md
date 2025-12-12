@@ -39,8 +39,6 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
-  <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white" />
   <img src="https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
   <br/>
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
@@ -54,14 +52,13 @@
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
   <br/>
   <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
   <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
   <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
 </p>
 
-<h3>🛍️ CMS & Platforms (Freelance)</h3>
+<h3>🛍️ Platforms (Freelance)</h3>
 <p align="center">
   <img src="https://img.shields.io/badge/WordPress-117AC9?style=for-the-badge&logo=WordPress&logoColor=white" />
   <img src="https://img.shields.io/badge/Shopify-95BF47?style=for-the-badge&logo=shopify&logoColor=white" />
@@ -77,30 +74,6 @@
 </p>
 
 <br/><br/>
-
-<table align="center" style="border: none;">
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🥗 GourmetAI</h3>
-      <p><b>Smart plate analysis with Computer Vision.</b></br>
-      Identifies food from photos, estimates weight, and calculates nutritional values.</p>
-      <p>
-        <code>Python</code> <code>FastAPI</code> <code>React</code> <code>OpenCV</code> <code>Deep Learning</code>
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <h3>🤖 Ambient Agent</h3>
-      <p><b>Intelligent Email Assistant with Memory.</b></br>
-      Manages emails automatically with contextual memory and human-in-the-loop feedback.</p>
-      <p>
-        <code>LangChain</code> <code>LangGraph</code> <code>OpenAI API</code> <code>LangSmith</code>
-      </p>
-    </td>
-  </tr>
-</table>
-
-<br/>
-
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=hlyda&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="170px" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hlyda&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" height="170px" />
